@@ -1,1 +1,0 @@
-# Prime-Num-Function
